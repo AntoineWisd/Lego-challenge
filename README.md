@@ -11,10 +11,15 @@ Our overall approach for detecting Sybil addresses involves using a combination 
 ## Legos:
 
 A) Address age: This Lego takes in an Ethereum address and checks for how long it has been in use. It can have a configuration parameter for a minimum duration for the address to be considered valid.
+
 B) Number of transactions: This Lego takes in an Ethereum address and checks how many transactions it has made. It can have a configuration parameter for a minimum number of transactions for the address to be considered valid.
+
 C) Related addresses: This Lego takes in an Ethereum address and checks how many other addresses have had interactions with it. It can have a configuration parameter for a minimum number of addresses and a rule for these addresses (e.g. only outgoing transactions, or only addresses that themselves have had interactions with a certain number of other addresses).
+
 D) Transaction patterns: This Lego takes in an Ethereum address and uses pattern recognition algorithms to detect suspicious patterns in the address's transactions.
+
 E) Address centrality: This Lego takes in an Ethereum address and uses centrality methods to evaluate its centrality in the transaction network.
+
 F) Cluster analysis: This Lego takes in an Ethereum address and uses cluster analysis techniques to identify groups of addresses that appear to be connected to each other.
 
 ## Detection pipeline:
