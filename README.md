@@ -2,11 +2,11 @@
 
 ## Introduction:
 
-In this presentation, we will describe our approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. These Legos are packaged algorithms that can be run individually in batch mode or combined into pipelines for closer to real-time execution. We will describe the different Legos that we have designed for detecting Sybil addresses, as well as how we have combined them into a global detection pipeline.
+In this presentation, I will describe my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. These Legos are packaged algorithms that can be run individually in batch mode or combined into pipelines for closer to real-time execution. I will describe the different Legos that I have designed for detecting Sybil addresses, as well as how I have combined them into a global detection pipeline.
 
 ## Overall approach:
 
-Our overall approach for detecting Sybil addresses involves using a combination of different methods to evaluate Ethereum addresses. These methods include analyzing the address's age, the number of transactions made, related addresses, transaction patterns, address centrality in the transaction network and cluster analysis.
+My overall approach for detecting Sybil addresses involves using a combination of different methods to evaluate Ethereum addresses. These methods include analyzing the address's age, the number of transactions made, related addresses, transaction patterns, address centrality in the transaction network and cluster analysis.
 
 ## Legos:
 
@@ -24,8 +24,8 @@ F) Cluster analysis: This Lego takes in an Ethereum address and uses cluster ana
 
 ## Detection pipeline:
 
-We have combined these different Legos into a global detection pipeline using classifiers such as RandomForestClassifier, SVM, XGBoost, etc. We have also combined the results of multiple classifiers for improved performance.
+I have combined these different Legos into a global detection pipeline using classifiers such as RandomForestClassifier, SVM, XGBoost, etc. I have also combined the results of multiple classifiers for improved performance.
 
 ## Conclusion:
 
-This is our approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. We have described the different Legos that we have designed for evaluating Ethereum addresses, as well as how we have combined them into a global detection pipeline. We believe that this approach can be used to improve the security of blockchain-based systems.
+This is my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. I have described the different Legos that I have designed for evaluating Ethereum addresses, as well as how I have combined them into a global detection pipeline. I believe that this approach can be used to improve the security of blockchain-based systems.
