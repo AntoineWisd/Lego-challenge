@@ -1,4 +1,4 @@
-# Preliminary work
+# Preliminary work 
 
 class WalletTxCountLego:
     def __init__(self, min_tx_count=3):
