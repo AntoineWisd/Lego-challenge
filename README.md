@@ -2,7 +2,8 @@
 
 ## Introduction:
 
-In this presentation, I will describe my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. These Legos are packaged algorithms that can be run individually in batch mode or combined into pipelines for closer to real-time execution. I will describe the different Legos that I have designed for detecting Sybil addresses, as well as how I have combined them into a global detection pipeline.
+This is still a preliminary work as i did not manage to finalize the entire work prior the submission date. 
+In this presentation, I will describe my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. These Legos are packaged algorithms that can be run individually in batch mode or combined into pipelines for closer to real-time execution. I will describe the different Legos for detecting Sybil addresses, as well as how I have combined them into a global detection pipeline.
 
 ## Overall approach:
 
@@ -28,4 +29,5 @@ I have combined these different Legos into a global detection pipeline using cla
 
 ## Conclusion:
 
-This is my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. I have described the different Legos that I have designed for evaluating Ethereum addresses, as well as how I have combined them into a global detection pipeline. I believe that this approach can be used to improve the security of blockchain-based systems.
+This is still a preliminary work as i did not manage to finalize the entire work prior the submission date. 
+This is my approach for detecting Sybil addresses on the Ethereum blockchain using autonomous Legos. I have described the different Legos for evaluating Ethereum addresses, as well as how I have combined them into a global detection pipeline. I believe that this approach can be used to improve the security of blockchain-based systems.
