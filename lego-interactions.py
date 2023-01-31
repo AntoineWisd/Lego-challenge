@@ -1,4 +1,4 @@
-# Preliminary work
+# Preliminary work 
 
 class WalletInteractionsLego:
     def __init__(self, min_interactions=10, interaction_rules=['out_transactions']):
